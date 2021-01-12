@@ -1,3 +1,13 @@
+# About App 
+basic stopwatch app created in react with the [states] and [setInterval]
+   ## functionality
+    1. Start/Stop timer 
+    2. Reset Timer
+
+# see live 
+(https://infallible-golick-639d17.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
